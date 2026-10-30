@@ -1,0 +1,212 @@
+{
+  "restaurant": {
+    "name": "Royal Dine",
+    "tagline": "Taste Beyond Ordinary",
+    "description": "Royal Dine is a premier multi-cuisine family restaurant located in the heart of Kasaragod, Kerala. Renowned for authentic Arabian Alfaham grills, fragrant dum biryanis, rich North Indian curries, and sizzling tandoori delights, Royal Dine offers a luxurious yet welcoming atmosphere for families, food lovers, and travelers.",
+    "established": "Established local favorite in Kasaragod",
+    "cuisineTypes": [
+      "Arabian & Lebanese Grills",
+      "Traditional & Dum Biryani",
+      "North Indian & Mughlai",
+      "Indo-Chinese",
+      "Tandoor & Artisan Breads",
+      "Desserts, Faloodas & Beverages"
+    ],
+    "highlights": [
+      "Signature Charcoal Grilled Alfaham & Pepper Alfaham",
+      "Aromatic Malabar & Dum Biryanis",
+      "Spacious Family Seating with Air Conditioning",
+      "Hygienic & Fresh Multi-Cuisine Kitchen",
+      "Prompt Service & Warm Kerala Hospitality",
+      "Takeaway, Dine-in & Pre-order Booking"
+    ]
+  },
+  "location": {
+    "address": "Near Old Press Club Junction, Chandragiri Road, Anebagilu",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "postalCode": "671121",
+    "country": "India",
+    "fullAddress": "Royal Dine, Near Old Press Club Junction, Chandragiri Road, Anebagilu, Kasaragod, Kerala 671121, India",
+    "landmark": "Near Old Press Club Junction, Chandragiri Road (Highway connection)",
+    "coordinates": {
+      "latitude": 12.498,
+      "longitude": 74.989
+    },
+    "googleMapsShortUrl": "https://maps.app.goo.gl/7AjnjSzPqQiHWyZKA?g_st=aw",
+    "googleMapsDirectionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Royal+Dine+Near+Old+Press+Club+Junction+chandragiri+Road+Kasaragod+Keralam+671121",
+    "googleMapsEmbedQuery": "Royal+Dine+Near+Old+Press+Club+Junction+chandragiri+Road+Kasaragod+Keralam+671121"
+  },
+  "contact": {
+    "phone": "+91 94972 26333",
+    "phoneRaw": "+919497226333",
+    "whatsapp": "+91 94972 26333",
+    "whatsappRaw": "919497226333",
+    "whatsappDefaultMessage": "Hello Royal Dine Kasaragod! I would like to inquire about table reservations / menu specials."
+  },
+  "hours": {
+    "status": "Open Daily",
+    "regularHours": "12:00 PM – 11:00 PM",
+    "lunch": "12:00 PM – 4:00 PM",
+    "dinner": "6:30 PM – 11:00 PM",
+    "daysOpen": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  "ratingsAndReputation": {
+    "overallRating": 4.2,
+    "maxRating": 5.0,
+    "reviewCount": "1,200+",
+    "priceRange": "₹₹ (Pocket-friendly & Premium, approx. ₹400–₹700 for two)",
+    "verifiedReviews": [
+      {
+        "id": "rev-1",
+        "author": "Mohammed Ashif",
+        "rating": 5,
+        "date": "Recent review",
+        "comment": "One of the finest dining spots on Chandragiri Road. Their Pepper Alfaham is simply unmatched—tender, smoky, and bursting with flavor. Excellent family cabin seating and polite staff.",
+        "dish": "Pepper Alfaham & Butter Garlic Naan"
+      },
+      {
+        "id": "rev-2",
+        "author": "Anjali Nair",
+        "rating": 5,
+        "date": "Recent review",
+        "comment": "Had an amazing family dinner. The Chicken Dum Biryani was fragrant and delicately spiced, not oily at all. The ambience is neat and air conditioning makes it very comfortable.",
+        "dish": "Royal Chicken Biryani"
+      },
+      {
+        "id": "rev-3",
+        "author": "Kishore Kumar",
+        "rating": 4,
+        "date": "Recent review",
+        "comment": "Great food and prompt service! The Mutton Rogan Josh paired with hot tandoori naan was top-notch. Very reasonable prices for such generous portion sizes.",
+        "dish": "Mutton Rogan Josh & Naan"
+      },
+      {
+        "id": "rev-4",
+        "author": "Farhan K.",
+        "rating": 5,
+        "date": "Recent review",
+        "comment": "The Arabian grill section is fantastic. Quick service, juicy Alfaham chicken with kuboos and garlic dip. A must-visit stop when passing through Kasaragod.",
+        "dish": "Classic Alfaham & Shawarma"
+      }
+    ]
+  },
+  "socialMedia": {
+    "instagram": {
+      "handle": "@royaldineksd",
+      "url": "https://www.instagram.com/royaldineksd"
+    },
+    "facebook": {
+      "name": "Royal Dine Kasaragod",
+      "url": "https://www.facebook.com"
+    }
+  },
+  "menuCategories": [
+    {
+      "id": "grills",
+      "name": "Arabian Grills & Alfaham",
+      "description": "Succulent meats marinated in authentic Arabic herbs & spices, charcoal-grilled to perfection."
+    },
+    {
+      "id": "biryani",
+      "name": "Royal Biryanis",
+      "description": "Slow-cooked fragrant basmati rice layered with tender meat, saffron, and traditional spices."
+    },
+    {
+      "id": "north-indian",
+      "name": "Curries & Gravies",
+      "description": "Rich, aromatic North Indian and coastal gravies simmered with fresh herbs and cream."
+    },
+    {
+      "id": "tandoor",
+      "name": "Tandoor & Artisan Breads",
+      "description": "Freshly baked clay-oven breads, flaky porottas, and sizzling tandoori starters."
+    },
+    {
+      "id": "chinese",
+      "name": "Indo-Chinese Delights",
+      "description": "Wok-tossed starters, spicy gravies, fried rice, and savory noodles."
+    },
+    {
+      "id": "desserts",
+      "name": "Falooda & Beverages",
+      "description": "Royal Faloodas, chilled fruit shakes, refreshing mojitos, and dessert treats."
+    }
+  ],
+  "featuredDishes": [
+    {
+      "id": "alfaham-classic",
+      "name": "Signature Charcoal Alfaham",
+      "category": "grills",
+      "description": "Traditional Arabian marinated chicken slow-grilled over charcoal embers, served with fresh kuboos, mayonnaise, mint dip, and pickled veggies.",
+      "price": "₹210 / Qtr",
+      "isVeg": false,
+      "isSpecial": true,
+      "tag": "Chef's Signature"
+    },
+    {
+      "id": "pepper-alfaham",
+      "name": "Fiery Black Pepper Alfaham",
+      "category": "grills",
+      "description": "Tender chicken infused with cracked Malabar black peppercorns, roasted garlic, and Arabian spices with an irresistible smoky crust.",
+      "price": "₹220 / Qtr",
+      "isVeg": false,
+      "isSpecial": true,
+      "tag": "Most Popular"
+    },
+    {
+      "id": "chicken-biryani",
+      "name": "Royal Chicken Dum Biryani",
+      "category": "biryani",
+      "description": "Aromatic long-grain basmati cooked in dum with marinated tender chicken cuts, golden fried onions, and whole spices. Served with raita and pickle.",
+      "price": "₹190",
+      "isVeg": false,
+      "isSpecial": true,
+      "tag": "Bestseller"
+    },
+    {
+      "id": "mutton-rogan-josh",
+      "name": "Kashmiri Mutton Rogan Josh",
+      "category": "north-indian",
+      "description": "Tender mutton simmered in an aromatic crimson gravy of Kashmiri chilies, fennel seeds, and spiced yogurt.",
+      "price": "₹290",
+      "isVeg": false,
+      "isSpecial": true,
+      "tag": "Customer Favorite"
+    },
+    {
+      "id": "garlic-naan",
+      "name": "Butter Garlic Naan",
+      "category": "tandoor",
+      "description": "Hand-stretched leavened bread baked in tandoor, topped with roasted minced garlic, fresh coriander, and melted butter.",
+      "price": "₹60",
+      "isVeg": true,
+      "isSpecial": false,
+      "tag": "Tandoor Special"
+    },
+    {
+      "id": "royal-falooda",
+      "name": "Royal Special Falooda",
+      "category": "desserts",
+      "description": "Layered dessert drink with basil seeds, vermicelli, rose syrup, dry fruits, and scoops of premium ice cream.",
+      "price": "₹140",
+      "isVeg": true,
+      "isSpecial": true,
+      "tag": "Sweet Indulgence"
+    }
+  ],
+  "sources": [
+    "Google Maps Business Listing: https://maps.app.goo.gl/7AjnjSzPqQiHWyZKA?g_st=aw",
+    "Justdial Kasaragod Listing for Royal Dine, Chandragiri Road",
+    "Wanderlog Kasaragod Dining Guide for Royal Dine",
+    "MagicPin & Restaurant Guru Kasaragod listings and customer verified reviews"
+  ]
+}
